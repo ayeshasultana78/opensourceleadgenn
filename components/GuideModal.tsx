@@ -181,7 +181,7 @@ export const GuideModal: React.FC<GuideModalProps> = ({ isOpen, onClose }) => {
                   <li className="pl-2">
                     <span className="font-medium text-slate-900 dark:text-white">Deploy on Vercel:</span>
                     <br />Go to <a href="https://vercel.com" target="_blank" className="text-blue-600 dark:text-blue-400 underline">Vercel.com</a> (sign up with GitHub).
-                    <br />Click <strong>Add New Project</strong> -> Import your GitHub repository.
+                    <br />Click <strong>Add New Project</strong>  Import your GitHub repository.
                     <br />Click <strong>Deploy</strong>. Vercel detects the build settings automatically.
                   </li>
                   <li className="pl-2">
